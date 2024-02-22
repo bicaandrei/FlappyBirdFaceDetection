@@ -17,7 +17,7 @@ This project is written in Python and utilizes OpenCV for real-time image proces
 2. Navigate to the project directory:
 
     ```bash
-    cd flappy-face
+    cd FlappyBirdFaceDetection
     ```
 
 ## Usage
